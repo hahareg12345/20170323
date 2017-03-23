@@ -1,0 +1,9 @@
+body div {
+  border: 1px solid red;
+}
+body span {
+  color: red;
+}
+body p {
+  text-align: center;
+}
